@@ -1,2 +1,2 @@
-let nam = "Manish";
-console.log(nam);
+let namy = "Manish";
+console.log(namy);
